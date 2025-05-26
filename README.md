@@ -6,6 +6,9 @@
 ## Descrição
 Este projeto implementa um sistema de **Visão Computacional** para classificação de motocicletas **logo na entrada** do pátio da empresa Mottu. Utilizando um modelo de **TensorFlow/Keras** baseado em **EfficientNet**, o programa classifica em tempo real o tipo de moto assim que a imagem é capturada.
 
+## Link video
+https://youtu.be/cIcSEcjw84c
+
 ## Funcionalidades
 - **Classificação em Imagem**: carrega uma imagem estática e classifica o tipo de moto (Econômica, Popular, Esportiva).
 - **Saída Gráfica**: exibe a imagem com o rótulo predito e porcentagem de confiança.
@@ -84,6 +87,3 @@ Resultado Esperado:
 
 A imagem será exibida com o tipo de moto classificado no título.
 Também será mostrada a porcentagem de confiança da predição.
-
-Copiar
-Editar
